@@ -19,4 +19,4 @@ The goal of the lab is to gain familiarity with the features of the Watson Knowl
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_01-13-2022bb/raw/main/Lab-2/Watson%20Knowledge%20Catalogv08-26-2021.pdf)
+[Instructions](https://github.com/bleonardb3/DS_POT_01-13-2022bb/raw/main/Lab-2/Watson%20Knowledge%20Catalogv01-13-2022bb.pdf)
